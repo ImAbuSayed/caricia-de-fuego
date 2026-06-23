@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricia-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Caricia de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-fuego/) |
+| **Get License** | [Get a Licensing Quote for Caricia de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d82a4605cb8cb0a7b076a8d05aaa37d317a71e9f09339639330ec4d19283d466` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

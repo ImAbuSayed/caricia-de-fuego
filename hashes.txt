@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricia de fuego
+
+This log tracks the cryptographic history and versioning for the song **Caricia de fuego** (caricia-de-fuego).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T12:41:36.688040 | `v1` | `d82a4605cb8cb0a7b076a8d05aaa37d317a71e9f09339639330ec4d19283d466` | `b912ce4e39f6e35f897e436940b3370bdd8eea5b92e9a5ba17d83529836b2273` | `2026-06-23_caricia-de-fuego-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
