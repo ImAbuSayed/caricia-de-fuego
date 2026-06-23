@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricia-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Caricia de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-fuego/) |
+| **Get License** | [Obtain a Music License for Caricia de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Fuego en tu mirada, baby, tú me quemas
+> Bailando en la oscuridad, rompemos las cadenas
+> Tus labios son el vicio que mi alma envenena
+> Esta night es nuestra, olvida las penas
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
